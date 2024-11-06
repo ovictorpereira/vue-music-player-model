@@ -15,6 +15,8 @@
 This model was created inspired by
 https://www.figma.com/community/file/1195050524500542670
 
+![demo](https://github.com/ovictorpereira/vue-music-player-model/blob/main/public/demo.png?raw=true 'demo')
+
 ```html
 <MusicPlayer :playlist="playlist" />
 ```
